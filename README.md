@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--badges source: https://github.com/Ileriayo/markdown-badges -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segfaulty1&show_icons=true&theme=gruvbox&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaulty1&hide=C,Assembly&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
