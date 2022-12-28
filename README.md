@@ -1,4 +1,13 @@
-### Hi there 👋. I'm a Web Engineer BTW
+### Hi there 👋.
+## Web Engineer BTW
+
+I build web solutions for web problems.
+Feel free to visit my [Portfolio](http://ouardinianas.netlify.app)
+
+Or contact me through these: <p syle='display:inline' align="left"> <a href="https://www.github.com/segfaulty1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ouarnisdnf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/segfaulty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+----------------
+
+<a href="http://www.github.com/segfaulty1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=segfaulty1&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--badges source: https://github.com/Ileriayo/markdown-badges -->
 
