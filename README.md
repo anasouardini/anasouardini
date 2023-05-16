@@ -1,7 +1,7 @@
 ### Hi there 👋.
 ## Web Engineer BTW
 
-<p syle='display:inline' align="left">Feel free to check out my <a href='https://anasouardini.online'>Portfolio</a> or <a href="https://www.linkedin.com/in/segfaulty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" /></a></p>
+<p syle='display:inline' align="left">Feel free to check out my <a href='https://anasouardini.online'>Portfolio</a> or <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" /></a></p>
 
 <a href=""><img src="https://github-readme-activity-graph.cyclic.app/graph?username=segfaulty1&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
