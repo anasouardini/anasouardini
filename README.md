@@ -3,13 +3,13 @@
 
 <p syle='display:inline' align="left">Feel free to check out my <a href='https://anasouardini.online'>Portfolio</a> or <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" /></a></p>
 
-<a href=""><img src="https://github-readme-activity-graph.cyclic.app/graph?username=segfaulty1&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href=""><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasouardini&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--badges source: https://github.com/Ileriayo/markdown-badges -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segfaulty1&show_icons=true&theme=gruvbox&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasouardini&show_icons=true&theme=gruvbox&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaulty1&hide=C,Assembly&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasouardini&hide=C,Assembly&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!-- themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula  -->
 
 
