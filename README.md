@@ -1,9 +1,17 @@
 ### Hi there 👋.
-## Web Engineer BTW
+![linkedin-banner](https://github.com/anasouardini/anasouardini/assets/114059811/f054517a-156c-4443-972c-2d14090469e9)
 
-<p syle='display:inline' align="left">Feel free to check out my <a href='https://anasouardini.online'>Portfolio</a> or <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" /></a></p>
 
-<a href=""><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasouardini&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p syle='display:inline' align="left">
+  Feel free to check out my
+  <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" />
+  </a>,
+  <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" />
+  </a>
+  or <a href='https://anasouardini.online'>Portfolio</a>
+</p>
 
 <!--badges source: https://github.com/Ileriayo/markdown-badges -->
 
