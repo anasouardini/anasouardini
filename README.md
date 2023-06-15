@@ -11,6 +11,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" />
   </a>
   or <a href='https://anasouardini.online'>Portfolio</a>
+  or <a href='https://blog.anasouardini.online/posts'>Blog</a>
 </p>
 
 <!--badges source: https://github.com/Ileriayo/markdown-badges -->
