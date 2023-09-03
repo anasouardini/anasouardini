@@ -6,11 +6,8 @@
   Feel free to check out my
   <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" />
-  </a>,
-  <a href="https://www.twitter.com/segfaulty1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="18" height="18" />
   </a>
-  or <a href='https://anasouardini.online'>Portfolio</a>
+  , <a href='https://anasouardini.online'>Portfolio</a>
   or <a href='https://blog.anasouardini.online/posts'>Blog</a>
 </p>
 
