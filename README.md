@@ -7,8 +7,7 @@
   <a href="https://www.linkedin.com/in/anasouardini" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" />
   </a>
-  , <a href='https://anasouardini.online'>Portfolio</a>
-  or <a href='https://blog.anasouardini.online/posts'>Blog</a>
+  or my <a href='https://ouardinianas.netlify.app'>Portfolio</a>
 </p>
 
 <!--badges source: https://github.com/Ileriayo/markdown-badges -->
